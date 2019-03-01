@@ -2,6 +2,12 @@
 
 ![Thumbs Up](https://i.imgur.com/yYNQlZK.jpg)
 
+# Summary
+
+An upcoming alternative review platform for mTurk, which fundamentally rethinks how reviews on the platform should work.
+
+Get quick, skimmable updates from people whose judgment you trust, rather than meaningless aggregate scores from people who you have very little in common with.
+
 # Paradigm
 
 Review platforms work best when they are:
