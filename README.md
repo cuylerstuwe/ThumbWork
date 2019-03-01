@@ -30,7 +30,7 @@ To reduce the amount of time it takes to complete or read a review, ThumbWork wi
 - **Good** 👍
 - **Not Good** 👎
 
-*Other platforms also encourage some users to wax poetic on their soapbox, writing an entire essay about how they were wronged.*
+*Other platforms also encourage some users to wax poetic on their soapbox, writing an entire essay about how they were wronged. It's almost as though they're sipping fine wine and asking you to smell the bouquet.*
 
 ThumbWork will allow **only 80 characters per review**, encouraging reviews that are quick to write and easy to skim. A positive side effect of their short length is that they will be very easy to embed in various locations.
 
