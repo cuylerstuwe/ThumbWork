@@ -40,6 +40,8 @@ ThumbWork's *"small group"* approach should help ensure that **no member is dead
 
 *Information loses value as it ages.*
 
+Often, information that has gone sour with age can be harmful, just as eating rotten food when you're hungry can make you sick.
+
 Reviews on ThumbWork **will last a maximum of 24 hours**, in order to better highlight recent information.
 
 ## Responsive
