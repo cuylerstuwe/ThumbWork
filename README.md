@@ -13,7 +13,10 @@ Review platforms work best when they are:
 
 *Most other mTurk review platforms operate on a 5-star review platform with 4+ criteria.*
 
-To reduce the amount of time it takes to complete or read a review, ThumbWork will reduce this to 1 simple criteria: Thumbs up, or thumbs down.
+To reduce the amount of time it takes to complete or read a review, ThumbWork will reduce this to 1 simple criteria, with two possible options:
+
+- 👍
+- 👎
 
 *Other platforms also encourage some users to wax poetic on their soapbox, writing an entire essay about how they were wronged.*
 
