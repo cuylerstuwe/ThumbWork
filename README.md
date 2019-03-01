@@ -7,7 +7,7 @@
 Review platforms work best when they are:
 
 - **Simple** *(rather than complicated)*
-- **Exclusive** *(rather than unrestricted)*
+- **Exclusive** *(rather than unchecked)*
 - **Reciprocitive** *(rather than parasitic)*
 - **Current** *(rather than outdated)*
 - **Responsive** *(rather than [defunct](https://www.reddit.com/r/mturk/comments/9qzppd/turkopticon_will_stop_accepting_new_reviews/))*
