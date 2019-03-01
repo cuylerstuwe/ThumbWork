@@ -13,7 +13,7 @@ Review platforms work best when they are:
 
 ## Simplicity
 
-*Most other mTurk review platforms operate on a 5-star review platform with 4+ criteria.*
+*Most other mTurk review platforms operate on a 5-star review platform with 4 or more separate criteria.*
 
 To reduce the amount of time it takes to complete or read a review, ThumbWork will reduce this to **1 simple criteria**, with two possible options:
 
