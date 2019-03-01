@@ -86,4 +86,4 @@ While you can't fault the platform for charging to cover the costs of the servic
 
 *"Is all of this really necessary?"*
 
-Because ThumbWork will be open-source and will put hosting in the hands of users, there will be no inherent need for a centralized authority to charge users for the opportunity to use it.
+Because ThumbWork will be **open-source** and will put hosting in the hands of users, there will be no inherent need for a centralized authority to charge users for the opportunity to use it.
