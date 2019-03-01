@@ -56,6 +56,8 @@ Reviews on ThumbWork **will last a maximum of 24 hours**, in order to better hig
 
 *When an underfunded service needs to store and retrieve excessive amounts of data regularly, it starts to suffer performance and availability issues:*
 
+**Example of an unresponsive, indrectly government-funded service:**
+
 ![Turkopticon Unresponsive](https://i.imgur.com/TswQoHx.png)
 
 A service that becomes unavilable as a consequence of trying to do to much is entirely worthless.
@@ -65,6 +67,8 @@ ThumbWork will stay responsive by **restricting its scope** and making it very e
 ## Free
 
 *Without re-thinking the fundamental paradigm, the only way to provide a service that sends too much worthless information to too many people is to start charging for it:*
+
+**Example of an expensive full-featured review service:**
 
 ![TurkerView Pricing](https://i.imgur.com/nqpJiwv.png)
 
