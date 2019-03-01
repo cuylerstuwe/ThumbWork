@@ -34,6 +34,8 @@ ThumbWork will allow **only 80 characters per review**, encouraging reviews that
 
 The current popular platforms operate on a clearly-flawed assumption that everyone's opinion is equally worthwhile. From racist trolls to clueless noobs, there are plenty of counterexamples available on an hour-to-hour basis showing that this isn't the case.
 
+In the real world, you can't trust anoymous aggregate information. The source of your information is usually more important than its contents.
+
 ThumbWork will operate on a *"friends"* paradigm: People will see **only** the reviews of people they are *"friends"* with.
 
 ## Reciprocitive
