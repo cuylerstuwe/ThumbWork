@@ -6,8 +6,8 @@ Review platforms work best when they are:
 - **Exclusive** *(rather than unrestricted)*
 - **Reciprocitive** *(rather than parasitic)*
 - **Current** *(rather than outdated)*
-- **Responsive** *(rather than defunct)*
-- **Free** *(rather than expensive)*
+- **Responsive** *(rather than [defunct](https://www.reddit.com/r/mturk/comments/9qzppd/turkopticon_will_stop_accepting_new_reviews/))*
+- **Free** *(rather than [expensive](https://www.reddit.com/r/mturk/comments/alrod4/replacement_for_turkerviewjs/))*
 
 # Methodology
 
