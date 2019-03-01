@@ -82,4 +82,8 @@ ThumbWork will stay responsive by **restricting its scope** and making it very e
 
 ![TurkerView Pricing](https://i.imgur.com/nqpJiwv.png)
 
+While you can't fault the platform for charging to cover the costs of the service that it offers, it really begs the question:
+
+*"Is all of this really necessary?"*
+
 Because ThumbWork will be open-source and will put hosting in the hands of users, there will be no inherent need for a centralized authority to charge users for the opportunity to use it.
