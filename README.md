@@ -6,6 +6,8 @@ Review platforms work best when they are:
 - Exclusive
 - Reciprocitive
 - Current
+- Responsive
+- Free
 
 # Methodology
 
@@ -39,3 +41,21 @@ ThumbWork's *"small group"* approach should help ensure that **no member is dead
 *Information loses value as it ages.*
 
 Reviews on ThumbWork **will last a maximum of 24 hours**, in order to better highlight recent information.
+
+## Responsive
+
+*When an underfunded service needs to store and retrieve excessive amounts of data regularly, it starts to suffer performance and availability issues:*
+
+![Turkopticon Unresponsive](https://i.imgur.com/TswQoHx.png)
+
+A service that becomes unavilable as a consequence of trying to do to much is entirely worthless.
+
+ThumbWork will stay responsive by **restricting its scope** and making it very easy for individuals to **self-host review groups** with a lightweight, easily-configurable server.
+
+## Free
+
+*Without re-thinking the fundamental paradigm, the only way to provide a service that sends too much worthless information to too many people is to start charging for it:*
+
+![TurkerView Pricing](https://i.imgur.com/nqpJiwv.png)
+
+Because ThumbWork will be open-source and will put hosting in the hands of users, there will be no inherent need for a centralized authority to charge users for the opportunity to use it.
