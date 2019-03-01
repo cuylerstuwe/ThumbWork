@@ -21,8 +21,8 @@ Review platforms work best when they are:
 
 To reduce the amount of time it takes to complete or read a review, ThumbWork will reduce this to **1 simple criteria**, with two possible options:
 
-- Good 👍
-- Not Good 👎
+- **Good** 👍
+- **Not Good** 👎
 
 *Other platforms also encourage some users to wax poetic on their soapbox, writing an entire essay about how they were wronged.*
 
