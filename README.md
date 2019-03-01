@@ -34,7 +34,9 @@ To reduce the amount of time it takes to complete or read a review, ThumbWork wi
 
 We're here to work. Tell me quickly whether I should do a HIT, or not. I have things to do.
 
-ThumbWork will allow **only 80 characters per review**, encouraging reviews that are quick to write and easy to skim. A positive side effect of their short length is that they will be very easy to embed in various locations.
+ThumbWork will allow **only 80 characters per review**, encouraging reviews that are quick to write and easy to skim.
+
+*(A positive side effect of their short length is that they will be very easy to embed in various locations.)*
 
 ## Exclusivity
 
