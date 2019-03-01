@@ -2,12 +2,12 @@
 
 Review platforms work best when they are:
 
-- Simple
-- Exclusive
-- Reciprocitive
-- Current
-- Responsive
-- Free
+- **Simple** *(rather than complicated)*
+- **Exclusive** *(rather than unrestricted)*
+- **Reciprocitive** *(rather than parasitic)*
+- **Current** *(rather than outdated)*
+- **Responsive** *(rather than defunct)*
+- **Free** *(rather than expensive)*
 
 # Methodology
 
@@ -27,6 +27,8 @@ ThumbWork will allow **only 80 characters per review**, encouraging reviews that
 ## Exclusivity
 
 *People have wildly different expectations, and the differences between people make most feedback useless to most other people.*
+
+The current popular platforms operate on a clearly-flawed assumption that everyone's opinion is equally worthwhile. From racist trolls to clueless noobs, there are plenty of counterexamples available on an hour-to-hour basis showing that this isn't the case.
 
 ThumbWork will operate on a *"friends"* paradigm: People will see **only** the reviews of people they are *"friends"* with.
 
