@@ -68,7 +68,7 @@ ThumbWork will stay responsive by **restricting its scope** and making it very e
 
 *Without re-thinking the fundamental paradigm, the only way to provide a service that sends too much worthless information to too many people is to start charging for it:*
 
-**Example of an expensive full-featured review service:**
+**Example of an expensive, full-featured review service:**
 
 ![TurkerView Pricing](https://i.imgur.com/nqpJiwv.png)
 
